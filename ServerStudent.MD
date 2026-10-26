@@ -20,5 +20,10 @@ I used git add to stage my ServerStudent.MD file so that Git would include it in
 Command:
 git add ServerStudent.MD
 ### Git Commit
-
+I used git commit to save my staged changes to the local repository. I included a message explaining what I updated.
+Command: 
+git commit -m "Update ServerStudent documentation"
 ### Git Push
+I used git push to upload my committed changes from my local main branch to my GitHub repository.
+Command: 
+git push origin main
